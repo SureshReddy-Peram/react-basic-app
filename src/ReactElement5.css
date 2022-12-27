@@ -1,0 +1,5 @@
+.sample{
+    display: flex;
+    
+    align-items: space-around;
+}
