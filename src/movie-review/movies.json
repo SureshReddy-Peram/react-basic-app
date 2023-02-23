@@ -1,0 +1,92 @@
+[
+    {
+        "imdbID": "tt15387190",
+        "Title": "Veera Simha Reddy",
+        "Released": "1 month ago",
+        "Runtime": "2h 50mins",
+        "Poster": "https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2023/01/Veera-Simha-Reddy-2.jpg",       
+        "Trailer_url": "https://www.youtube.com/watch?v=XUdcXkvYJs0",
+        "imdbRating": "5.9"
+    },
+    {
+        "imdbID": "tt15281402",
+        "Title": "Waltair Veerayya",
+        "Released":"1 month ago",
+        "Runtime":"2h 35mins",
+        "Poster": "https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2023/01/Waltair-Veerayya-Movie-Review-Rating-3.jpg",
+        "Trailer_url": "https://www.youtube.com/watch?v=A4MKFPCpRQ4",
+        "imdbRating": "7.0"
+    },
+    {
+        "imdbID": "tt11998558",
+        "Title": "Varasudu",
+        "Released":"1 month ago",
+        "Runtime":"2h 50mins",
+        "Poster": "https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2023/01/Varasudu-Movie-Review-Rating.jpg",
+        "Trailer_url": "https://www.youtube.com/watch?v=9fux9swQ5AQ",
+        "imdbRating": "6.6"
+    },
+    {
+        "imdbID": "tt12844910",
+        "Title": "Pathaan",
+        "Released":"3 weeks ago",
+        "Runtime":"2h 35mins",
+        "Poster":"https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2023/01/Pathaan-Movie-Review-Rating5.jpg",
+        "Trailer_url": "https://www.youtube.com/watch?v=vqu4z34wENw",
+        "imdbRating": "6.6"
+    },
+    {
+        "imdbID": "tt23490586",
+        "Title": "Amigos",
+        "Released":"4 days ago",
+        "Runtime":"2h 10mins",
+        "Poster":"https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2023/02/Amigos-Movie-Review-Rating-1.jpg",
+        "Trailer_url": "https://www.youtube.com/watch?v=18874_PSQY4",
+        "imdbRating": "8.2"
+    },
+    {
+        "imdbID": "tt0169111",
+        "Title": "Popcorn",
+        "Released":"5 days ago",
+        "Runtime":"2h 10mins",
+        "Poster":"https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2023/02/Popcorn-Movie-Review-Rating2.jpg",
+        "Trailer_url": "https://www.youtube.com/watch?v=cmGd729oTv8",
+        "imdbRating": "5.5"
+    },
+    {
+        "imdbID": "tt15340998",
+        "Title": "Vedha",
+        "Released":"5 days ago",
+        "Runtime":"2h 36mins",
+        "Poster":"https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2023/02/Vedha-Movie.jpg",
+        "Trailer_url": "https://www.youtube.com/watch?v=kWG33LopAOc",
+        "imdbRating": "6.8"
+    },
+    {
+        "imdbID": "tt23490324",
+        "Title": "Butta Bomma",
+        "Released":"1 week ago",
+        "Runtime":"2h 2mins",
+        "Poster":"https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2023/02/Butta-Bomma-Movie-Review-Rating3.jpg",
+        "Trailer_url": "https://www.youtube.com/watch?v=XQD-BsgCvcQ",
+        "imdbRating": "8.7"
+    },
+    {
+        "imdbID": "tt0986200",
+        "Title":"Shaakuntalam",
+        "Released":"April 14, 2023",
+        "Runtime":"2h 45mins",
+        "Poster":"https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2023/02/Talk-Samanthas-Shaakuntalam-release-to-Postpone-2.jpg",
+        "Trailer_url": "https://www.youtube.com/watch?v=66Kv0TdXYyk",
+        "imdbRating": "7.0"
+    },
+    {
+        "imdbID": "tt15685876",
+        "Title":"Dhamaka",
+        "Released":"2 months ago",
+        "Runtime":"2h 45mins",
+        "Poster":"https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2022/12/Dhamaka-Movie-Review-Rating7.jpg",
+        "Trailer_url": "https://www.youtube.com/watch?v=zLPjDE8Lyf4",
+        "imdbRating": "7.0"
+    }
+]

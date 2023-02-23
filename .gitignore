@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+src/calculator2/Button.css
+src/calculator2/Button.js
+src/calculator2/ButtonBox.css
+src/calculator2/ButtonBox.js
+src/calculator2/FitText.js
+src/calculator2/Main.js
+src/calculator2/Screen.css
+src/calculator2/Screen.js
+src/calculator2/Wrapper.css
+src/calculator2/Wrapper.js

@@ -11,7 +11,7 @@ const ReactElement4 = ()=>{
     //'else' statement return JSX element without function. 
     function getGreeting(userName) {
         if(userName) {
-            return <h1 style={{color:"green"}}>Hello { formatName(userName) }</h1>;
+            return <h1 style={{color:"green"}}>Hello {formatName (userName) }</h1>;
         }
         else {
             return <h1 style={{color:"red"}}>Hello Stranger</h1>;
@@ -22,5 +22,6 @@ const ReactElement4 = ()=>{
     //const element = <h1>Hello {name} </h1>;
     //return element;
     return getGreeting("Sudeep Reddy");
+    //return getGreeting();      //O/P : Hello Stranger
 }
 export default ReactElement4;

@@ -1,0 +1,73 @@
+
+.main{
+    margin: 0px auto;
+    max-width: 500px;
+  }
+  
+  .content{
+    border: 5px solid #c0c0ff;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  table{
+    width: 100%;
+  }
+  
+  td:first-child{
+    width:100%;
+  }
+  td:last-child{
+    min-width: 125px;
+  }
+  th{
+    text-align: left;
+  }
+  tr:nth-child(even){
+    background-color: rgb(218, 215, 211);
+  }
+  
+  input, button{
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid #c0c0c0;
+  }
+  
+  button{
+    cursor: pointer;
+  }
+  
+  button.add{
+    background-color: #0b539a;
+    color:#ffffff;
+  }
+  
+  button.edit{
+    background-color: #00ff5e;
+    color:#ffffff;
+  }
+  button.delete{
+    background-color: #ff5100;
+    color:#ffffff;
+  }
+  button.save{
+    background-color: #00fff2;
+    color:#ffffff;
+  }
+  button.back{
+    background-color: #ffbf00;
+    color:#ffffff;
+  }
+  
+  
+  .task{
+    cursor: pointer;
+  }
+  
+  .completed{
+    text-decoration: line-through;
+  }
+  

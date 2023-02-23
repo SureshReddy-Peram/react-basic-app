@@ -1,0 +1,12 @@
+
+form{
+    width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid black;
+    justify-content: center;
+  }
+  
+  form > div{
+    margin: 20px;
+  }

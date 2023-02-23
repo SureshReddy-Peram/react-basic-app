@@ -18,7 +18,7 @@
 
     const element = <div> 
                       <h1>Hello {formatName(name)}</h1>
-                      <h2>This is number { formatNum(num) }</h2>
+                      <h2>This is Binary number { formatNum(num) }</h2>
                     </div>
     
     return element;  

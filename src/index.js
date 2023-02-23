@@ -1,18 +1,20 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-//import App from './App';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
-//import ReactElement from './ReactElement';
-//import ReactElement5 from './ReactElement5';
-import FunctionalComp from './FunctionalComp';
-import ClassBasedComp from './ClassBasedComp';
+//import Calculator from './calculator/Calculator';
+//When we use bootstrap, we need to import the bootstrap css & js files
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <FunctionalComp name="Suresh Reddy"/>
-    <ClassBasedComp message = "React is Great" />
+    
+    <App />
+   
   </React.StrictMode>
 );
 

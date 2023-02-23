@@ -1,0 +1,58 @@
+[
+    {
+        "Title": "Veera Simha Reddy",
+        "Released": "1 month ago",
+        "Runtime": "170 min",
+        "Poster": "https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2023/01/Veera-Simha-Reddy-2.jpg"
+    },
+    {
+        "Title": "Waltair Veerayya",
+        "Released":"1 month ago",
+        "Runtime":"155 min",
+        "Poster": "https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2023/01/Waltair-Veerayya-Movie-Review-Rating-3.jpg"
+    },
+
+    {
+        "Title": "Varasudu",
+        "Released":"1 month ago",
+        "Runtime":"170 min",
+        "Poster": "https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2023/01/Varasudu-Movie-Review-Rating.jpg"
+    },
+    {
+        "Title":"Pathaan",
+        "Released":"3 weeks ago",
+        "Runtime":"146 min",
+        "Poster":"https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2023/01/Pathaan-Movie-Review-Rating5.jpg"
+    },
+    {
+        "Title":"Amigos",
+        "Released":"4 days ago",
+        "Runtime":"120 mins",
+        "Poster":"https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2023/02/Amigos-Movie-Review-Rating-1.jpg"
+    },
+    {
+        "Title":"Lagaan: Once Upon a Time in India",
+        "Released":"22 years ago",
+        "Runtime":"210 mins",
+        "Poster":"https://www.imdb.com/title/tt0169102/mediaviewer/rm4183241728/?ref_=tt_ov_i"
+    },
+    {
+        "Title":"Vedha",
+        "Released":"5 days ago",
+        "Runtime":"156 mins",
+        "Poster":"https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2023/02/Vedha-Movie.jpg"
+    },
+    {
+        "Title":"Butta Bomma",
+        "Released":"1 week ago",
+        "Runtime":"122 mins",
+        "Poster":"https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2023/02/Butta-Bomma-Movie-Review-Rating3.jpg"
+    },
+    {
+        "Title":"Like Stars on Earth",
+        "Released":"16 years ago",
+        "Runtime":"185 mins",
+        "Poster":"https://www.imdb.com/title/tt0986264/mediaviewer/rm2495765504/?ref_=tt_ov_i"
+    }
+
+]
